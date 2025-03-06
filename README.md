@@ -1,6 +1,6 @@
 # ECS-50
 This repository contains coding assingments for my Computer Organization & Machine-Dependent Programming course. 
-The course had 6 different coding assingments, which each were equally challenging. The different languages that 
+The course had 4 different coding assingments, which each were equally challenging. The different languages that 
 I used throughout this course included Assembly, C, and RISCx86. 
 
 # Course Overview 
